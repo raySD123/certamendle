@@ -300,7 +300,7 @@ function App() {
                 <section className="changelog-section" aria-labelledby="changelog-title">
                   <h3 id="changelog-title">Changelog</h3>
                   <div className="changelog-list" tabIndex="0">
-                    <p>[Changelog entries go here.]</p>
+                    <p>Oct. 28, 2026: created the site :D !!!!! only history now, but the site works haha</p>
                   </div>
                 </section>
               </>
