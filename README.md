@@ -1,16 +1,30 @@
-# React + Vite
+# Certamendle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Certamendle is a React app built with Vite and deployed to GitHub Pages at
+<https://raysd123.github.io/certamendle/>.
 
-Currently, two official plugins are available:
+## Local development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Install dependencies and start the development server:
 
-## React Compiler
+```sh
+npm ci
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Run the production build locally with:
 
-## Expanding the ESLint configuration
+```sh
+npm run build
+npm run preview
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## GitHub Pages deployment
+
+The `Deploy to GitHub Pages` workflow builds the site and deploys it whenever
+changes are pushed to `master`. It can also be started manually from the
+repository's Actions tab.
+
+For the first deployment, set the repository's Pages source to **GitHub
+Actions** under **Settings > Pages**. The Vite base path is configured for the
+`/certamendle/` project site URL.
