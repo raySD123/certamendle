@@ -1,0 +1,39 @@
+[
+  {
+    "levelDate": "2026-10-28",
+    "clue1": "This man's grave allegedly sits below the Lapis Niger.",
+    "clue2": "This man signed a 100-year peace treaty with the city of Veii.",
+    "clue3": "This man set up an asylum for criminals on the Capitoline Hill.",
+    "clue4": "This man killed his brother Remus after an argument.",
+    "clue5": "This man founded the city of Rome and was its first king.",
+    "answer": "Romulus"
+  },
+  {
+    "levelDate": "2026-10-29",
+    "clue1": "According to one source, this man's sister wished he would lose a battle so that more Roman citizens would die.",
+    "clue2": "This man attempted to nominate a scribe (or messenger) as dictator to spite the Senate.",
+    "clue3": "The Senate rejected his appointment and instead made Aulus Atilius Calatinus dictator.",
+    "clue4": "In this man's most famous battle, he lost around 75% of his force to a commander named Adherbal.",
+    "clue5": "That battle took place after this man allegedly threw sacred chickens into the sea because they wouldn't eat.",
+    "answer": "Publius Claudius Pulcher"
+  },
+  {
+    "levelDate": "Placeholder",
+    "clue1": "Placeholder",
+    "clue2": "Placeholder",
+    "clue3": "Placeholder",
+    "clue4": "Placeholder",
+    "clue5": "Placeholder",
+    "answer": "Placeholder"
+  },
+
+  {
+    "levelDate": "Undecided (not yet in autocomplete)",
+    "clue1": "According to one author, this man once sipped some poison meant for his friend.",
+    "clue2": "This man married twice; his first wife died, and his second wife's family was implicated in a conspiracy.",
+    "clue3": "This man began rebuilding the Temple of Jupiter Capitolinus after it burned down in a fire.",
+    "clue4": "This man had an affair with Berenice of Cilicia, although he ended it due to her unpopularity with the Romans.",
+    "clue5": "This man was emperor for roughly two years, during which Mount Vesuvius erupted.",
+    "answer": "Titus"
+  }
+]
